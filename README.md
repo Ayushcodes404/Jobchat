@@ -70,8 +70,6 @@ job-chat/
 ## Contributing
 Feel free to contribute to this project by submitting issues or pull requests on GitHub.
 
-## License
-This project is licensed under the MIT License.
 
 ## Author
 Your Name - [Your GitHub](https://github.com/ayushcodes404)
